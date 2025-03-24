@@ -1,0 +1,292 @@
+/* all common css start */
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 h2 h3 h4 h5 h6 p {
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+
+#headermine {
+    padding: 30px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    z-index: 1000;
+
+
+}
+
+.row {
+    display: flex;
+}
+
+.headrf {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+
+
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+ul,
+ol {
+    list-style-type: none;
+    display: flex;
+}
+
+.menu ul li {
+    padding: 0 48px;
+
+
+
+}
+
+.menu ul li a {
+    color: #181818;
+    line-height: 50px;
+    font-size: 20px;
+
+
+
+}
+
+.menu ul li a:hover {
+    color: #5956E8;
+
+
+}
+
+.contact {
+    padding: 20px 30px;
+    background: #5956E8;
+    border-radius: 10px;
+}
+
+.contact a {
+    color: bisque;
+    font-size: 17px;
+}
+
+.contact:hover {
+    background: teal;
+}
+
+#benner {
+
+    background: #5956E8;
+
+}
+
+.text {
+    width: 542px;
+    height: 424px;
+
+}
+
+.text h1 {
+    width: 383px;
+    font-size: 38px;
+    font-weight: 700;
+    color: white;
+}
+
+.text p {
+    padding: 15px 10px;
+    width: 556px;
+    font-size: 17px;
+    color: #F4F4F4;
+
+
+}
+
+.text a {
+    padding: 15px 10px;
+    font-size: 17px;
+    background: wheat;
+    border-radius: 10px;
+    color: #5956E8;
+
+
+}
+
+.text a:hover {
+    background: tomato;
+}
+
+.bnnerf {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.benerpic img {
+    width: 532px;
+    height: 535px;
+    padding: 235px 156px;
+}
+
+.hkhkkh {
+    padding: 55px 0;
+}
+
+.hkhkkh h2 {
+    text-align: center;
+    font-size: 36px;
+}
+
+.hkhkkh p {
+    width: 444px;
+    padding: 20px 1px;
+    margin: 1px 410px;
+    color: #5D5D5D;
+
+
+}
+
+.tablef {
+    justify-content: space-between;
+}
+
+.div1 h3 {
+    padding: 10px 10px;
+    font-size: 20px;
+}
+
+.div1 p {
+    width: 260px;
+    color: #5D5D5D;
+}
+
+.div2 h3 {
+    padding: 10px 10px;
+    font-size: 20px;
+}
+
+.div2 p {
+    width: 260px;
+    color: #5D5D5D;
+}
+
+.div2 img {
+  width: 71px;
+    
+}
+.hkhk{
+    padding: 50px 0;
+}
+/*  */
+.div22 h3 {
+    padding: 10px 10px;
+    font-size: 20px;
+}
+
+.div22 p {
+    width: 260px;
+    color: #5D5D5D;
+}
+
+.div3 h3 {
+    padding: 10px 10px;
+    font-size: 20px;
+}
+
+.div3 p {
+    width: 260px;
+    color: #5D5D5D;
+}
+
+.div3 img {
+  width: 71px;
+  position: relative;
+    
+}
+.hjhjjhhj{
+    padding: 30px 0;
+}
+.div4{
+    position: relative;
+}
+.hjhj{
+    position: absolute;
+    left: 50%;
+    bottom: 53px;
+    font-size: 25px;
+    transform: translate(-50%);
+    color: #5D5D5D;
+}
+.lk44{
+    position: absolute;
+    left: 50%;
+    bottom: 40px;
+    transform: translate(-50%);
+    padding: 0 10px;
+    color: #5D5D5D;
+}
+/*  */
+.div1{
+    position: relative;
+}
+.hjhjj{
+    position: absolute;
+    left: 52%;
+    bottom: 58px;
+    font-size: 25px;
+    transform: translate(-50%);
+    color: #5D5D5D;
+}
+.lk444{
+    position: absolute;
+    left: 72%;
+    bottom: 43px;
+    transform: translate(-50%);
+    padding: 0 16px;
+    color: #5D5D5D;
+}
+/*  */
+
+.div1{
+    position: relative;
+}
+.hjhjk{
+    position: absolute;
+    left: 52%;
+    bottom: 58px;
+    font-size: 25px;
+    transform: translate(-50%);
+    color: #5D5D5D;
+}
+.lk447{
+    position: absolute;
+    left: 72%;
+    bottom: 43px;
+    transform: translate(-50%);
+    padding: 0 16px;
+    color: #5D5D5D;
+}
+/* all common css end */
+
+/* all common css start */
+/* all common css end */
+/* all common css start */
+/* all common css end */
+/* all common css start */
+/* all common css end */
+/* all common css start */
+/* all common css end */
+/* all common css start */
+/* all common css end */
