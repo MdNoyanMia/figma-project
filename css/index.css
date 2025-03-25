@@ -38,6 +38,9 @@ h1 h2 h3 h4 h5 h6 p {
 
 
 }
+.logo a{
+    padding: 0 55px;
+}
 
 a {
     text-decoration: none;
@@ -98,6 +101,7 @@ ol {
  
     width: 542px;
     height: 424px;
+    left: 10%;
 
 }
 
@@ -107,6 +111,7 @@ ol {
     font-size: 58px;
     font-weight: 900;
     color: white;
+    
   }
 
 .text p {
@@ -140,7 +145,7 @@ ol {
 .benerpic img {
     width: 532px;
     height: 535px;
-    padding: 235px 156px;
+    padding: 235px 82px;
 }
 
 .hkhkkh {
