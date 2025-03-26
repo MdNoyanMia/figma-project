@@ -40,7 +40,7 @@ h1 h2 h3 h4 h5 h6 p {
 }
 
 .logo a {
-    padding: 0 55px;
+padding: 0 11px;
 }
 
 a {
@@ -457,11 +457,262 @@ ol {
 }
 
 /* all common css end */
+
+/* part 7 start */
+#Letest {
+    padding: 70px 0;
+}
+
+.Letestff {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.news {
+    width: 100%;
+}
+
+.news h3 {
+
+    height: 77px;
+    font-size: 40px;
+    font-family: "Inter", sans-serif;
+    color: #181818;
+    text-align: center;
+}
+
+.news h5 {
+
+    width: 542px;
+    padding: 0 323px;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: "Inter", sans-serif;
+    color: #18181869;
+    text-align: center;
+}
+
+.ghgh {
+    width: 30%;
+    padding: 50px 0;
+
+
+}
+
+.ghgh .rrrrrr {
+    color: #5D5D5D;
+    font-family: "Inter", sans-serif;
+    line-height: 10px;
+}
+
+.rrrrrr i {
+    padding: 5px 20px;
+
+}
+
+.Plans {
+    padding: 16px 0;
+    width: 291.75px;
+    height: 47.98px;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+}
+
+.There {
+    width: 322.97 px;
+    height: 80.97px;
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
+    line-height: 27px;
+    color: #18181894;
+}
+
+.Learn {
+    width: 94.74 px;
+    height: 18.99px;
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
+    color: #5956E8;
+}
+
+/* part 7 end */
 /* all common css start */
+.ghgk {
+    width: 30%;
+    padding: 50px 0;
+
+
+}
+
+.ghgk .rrrrrr {
+    color: #5D5D5D;
+    font-family: "Inter", sans-serif;
+    line-height: 10px;
+}
+
+.rrrrrr i {
+    padding: 5px 20px;
+
+}
+
 /* all common css end */
+.ghghkk {
+    width: 30%;
+    padding: 50px 0;
+}
+
+.ghghkk .rrrrrr {
+    color: #5D5D5D;
+    font-family: "Inter", sans-serif;
+    line-height: 10px;
+}
+
+.rrrrrr i {
+    padding: 5px 20px;
+
+}
+
 /* all common css start */
+.footerff {
+    justify-content: space-between;
+}
+
+.footer1 {
+    width: 300px;
+    height: 241px;
+    position: relative;
+}
+
+.footer1 img {
+    width: 115.21px;
+    height: 83px;
+
+
+}
+
+.footer1 h3 {
+    width: 303px;
+    height: 81px;
+    line-height: 27px;
+    font-size: 16px;
+    color: #5D5D5D;
+    font-family: "Inter", sans-serif;
+}
+
+.footer1 .yyyy {
+    width: 19px;
+    height: 30px;
+    position: absolute;
+    background: #5956e838;
+    padding: 20px 25px ;
+    border-radius: 50px;
+
+}
+
+.footer1 .uuuuu {
+    width: 30px;
+    height: 30px;
+    top: 185px;
+    left: 80px;
+    position: absolute;
+    bottom: 0;
+    background: #5956e838;
+    padding: 20px 25px ;
+    border-radius: 50px;
+
+}
+
 /* all common css end */
+.footer2{
+    padding: 50px 0;
+    width: 95px;
+    height: 180px;
+}
+.footer2 h3{
+  
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    width: 92.52px;
+
+}
+.footer2 h5{
+    line-height: 35px;
+    color:#5D5D5D ;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    width: 94.52px;
+    height: 140px;
+}
 /* all common css start */
+.footer3{
+    padding: 50px 0;
+    width: 112px;
+    height: 214px;
+}
+
+
+
+.footer3 h3{
+  
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    width: 92.52px;
+
+}
+.footer3 h5{
+    line-height: 35px;
+    color:#5D5D5D ;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    width: 94.52px;
+    height: 140px;
+}
 /* all common css end */
-/* all common css start */
-/* all common css end */
+.footer4{
+    padding: 50px 0;
+    width: 136px;
+    height: 214px;
+}
+
+
+
+.footer4 h3{
+  
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    width: 92.52px;
+
+}
+.footer4 h5{
+    line-height: 35px;
+    color:#5D5D5D ;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    width: 94.52px;
+    height: 140px;
+}
+.footer5{
+    padding: 50px 0;
+    width: 156px;
+    height: 120px;
+}
+.footer5 h3{
+  
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    width: 92.52px;
+
+}
+.footer5 h5{
+    line-height: 27px;
+    color:#5D5D5D ;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    width: 162px;
+    height: 70px;
+   
+}
+
+#sesssss{
+    background: #5d5d5d30;
+}
